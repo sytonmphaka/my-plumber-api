@@ -1,0 +1,492 @@
+[
+  {
+    "ScientificName": "Abelmoschus esculentus",
+    "CommonEnglishName": "Okra",
+    "WidelyKnownAs": "Lady's finger"
+  },
+  {
+    "ScientificName": "Abelmoschus manihot",
+    "CommonEnglishName": "Aibika",
+    "WidelyKnownAs": "Sunset hibiscus"
+  },
+  {
+    "ScientificName": "Abelmoschus moschatus",
+    "CommonEnglishName": "Musk okra",
+    "WidelyKnownAs": "Ambrette"
+  },
+  {
+    "ScientificName": "Acacia auriculiformis",
+    "CommonEnglishName": "Earleaf acacia",
+    "WidelyKnownAs": "Australian acacia"
+  },
+  {
+    "ScientificName": "Acacia farnesiana",
+    "CommonEnglishName": "Sweet acacia",
+    "WidelyKnownAs": "Needle bush"
+  },
+  {
+    "ScientificName": "Acacia holosericea",
+    "CommonEnglishName": "Silver wattle",
+    "WidelyKnownAs": "Holosericea acacia"
+  },
+  {
+    "ScientificName": "Acacia mellifera",
+    "CommonEnglishName": "Black thorn",
+    "WidelyKnownAs": "Honey thorn"
+  },
+  {
+    "ScientificName": "Adenanthera pavonina",
+    "CommonEnglishName": "Red sandalwood tree",
+    "WidelyKnownAs": "Coral bead tree"
+  },
+  {
+    "ScientificName": "Aeschynomene americana",
+    "CommonEnglishName": "American jointvetch",
+    "WidelyKnownAs": "Peanut weed"
+  },
+  {
+    "ScientificName": "Agathis australis",
+    "CommonEnglishName": "Kauri pine",
+    "WidelyKnownAs": "New Zealand kauri"
+  },
+  {
+    "ScientificName": "Agathis macrophylla",
+    "CommonEnglishName": "Pacific kauri",
+    "WidelyKnownAs": "Fiji kauri"
+  },
+  {
+    "ScientificName": "Agathis robusta",
+    "CommonEnglishName": "Queensland kauri",
+    "WidelyKnownAs": "Australian kauri"
+  },
+  {
+    "ScientificName": "Agave sisalana",
+    "CommonEnglishName": "Sisal",
+    "WidelyKnownAs": "Sisal hemp"
+  },
+  {
+    "ScientificName": "Albizia falcataria",
+    "CommonEnglishName": "Falcataria",
+    "WidelyKnownAs": "Batai tree"
+  },
+  {
+    "ScientificName": "Albizia lebbeck",
+    "CommonEnglishName": "Indian siris",
+    "WidelyKnownAs": "Woman’s tongue tree"
+  },
+  {
+    "ScientificName": "Albizia procera",
+    "CommonEnglishName": "White siris",
+    "WidelyKnownAs": "Tall albizia"
+  },
+  {
+    "ScientificName": "Albizia stipulata",
+    "CommonEnglishName": "Stipulate albizia",
+    "WidelyKnownAs": "Hill albizia"
+  },
+  {
+    "ScientificName": "Aleurites fordii",
+    "CommonEnglishName": "Tung tree",
+    "WidelyKnownAs": "China wood oil tree"
+  },
+  {
+    "ScientificName": "Aleurites moluccana",
+    "CommonEnglishName": "Candlenut tree",
+    "WidelyKnownAs": "Kukui nut"
+  },
+  {
+    "ScientificName": "Aleurites montana",
+    "CommonEnglishName": "Mountain candlenut",
+    "WidelyKnownAs": "Chinese tung"
+  },
+  {
+    "ScientificName": "Allium ampeloprasum",
+    "CommonEnglishName": "Leek",
+    "WidelyKnownAs": "Wild leek"
+  },
+  {
+    "ScientificName": "Allium cepa",
+    "CommonEnglishName": "Onion",
+    "WidelyKnownAs": "Bulb onion"
+  },
+  {
+    "ScientificName": "Allium fistulosum",
+    "CommonEnglishName": "Spring onion",
+    "WidelyKnownAs": "Welsh onion"
+  },
+  {
+    "ScientificName": "Allium sativum",
+    "CommonEnglishName": "Garlic",
+    "WidelyKnownAs": "Common garlic"
+  },
+  {
+    "ScientificName": "Alstonia scholaris",
+    "CommonEnglishName": "Devil tree",
+    "WidelyKnownAs": "Blackboard tree"
+  },
+  {
+    "ScientificName": "Amaranthus cruentus",
+    "CommonEnglishName": "Red amaranth",
+    "WidelyKnownAs": "Grain amaranth"
+  },
+  {
+    "ScientificName": "Amaranthus sp.",
+    "CommonEnglishName": "Amaranth",
+    "WidelyKnownAs": "Pigweed"
+  },
+  {
+    "ScientificName": "Amorphophallus paeoniifolius",
+    "CommonEnglishName": "Elephant foot yam",
+    "WidelyKnownAs": "Surán"
+  },
+  {
+    "ScientificName": "Anacardium occidentale",
+    "CommonEnglishName": "Cashew",
+    "WidelyKnownAs": "Cashew nut tree"
+  },
+  {
+    "ScientificName": "Ananas comosus",
+    "CommonEnglishName": "Pineapple",
+    "WidelyKnownAs": "Pine apple fruit"
+  },
+  {
+    "ScientificName": "Annona muricata",
+    "CommonEnglishName": "Soursop",
+    "WidelyKnownAs": "Graviola"
+  },
+  {
+    "ScientificName": "Annona reticulata",
+    "CommonEnglishName": "Custard apple",
+    "WidelyKnownAs": "Bullock’s heart"
+  },
+  {
+    "ScientificName": "Annona squamosa",
+    "CommonEnglishName": "Sugar apple",
+    "WidelyKnownAs": "Sweetsop"
+  },
+  {
+    "ScientificName": "Anthocephalus chinensis",
+    "CommonEnglishName": "Kadamba tree",
+    "WidelyKnownAs": "Burflower tree"
+  },
+  {
+    "ScientificName": "Apium graveolens",
+    "CommonEnglishName": "Celery",
+    "WidelyKnownAs": "Garden celery"
+  },
+  {
+    "ScientificName": "Apium graveolens var. dulce",
+    "CommonEnglishName": "Stalk celery",
+    "WidelyKnownAs": "Pascal celery"
+  },
+  {
+    "ScientificName": "Araucaria cunninghamii",
+    "CommonEnglishName": "Hoop pine",
+    "WidelyKnownAs": "Colonial pine"
+  },
+  {
+    "ScientificName": "Areca catechu",
+    "CommonEnglishName": "Areca palm",
+    "WidelyKnownAs": "Betel nut palm"
+  },
+  {
+    "ScientificName": "Artocarpus heterophyllus",
+    "CommonEnglishName": "Jackfruit",
+    "WidelyKnownAs": "Jack tree"
+  },
+  {"ScientificName":"Artocarpus altilis","CommonEnglishName":"Breadfruit","WidelyKnownAs":"Bread tree"},
+  {"ScientificName":"Arachis hypogaea","CommonEnglishName":"Groundnut","WidelyKnownAs":"Peanut"},
+  {"ScientificName":"Arachis pintoi","CommonEnglishName":"Pinto peanut","WidelyKnownAs":"Forage peanut"},
+  {"ScientificName":"Artemisia annua","CommonEnglishName":"Sweet wormwood","WidelyKnownAs":"Qinghao"},
+  {"ScientificName":"Asparagus officinalis","CommonEnglishName":"Asparagus","WidelyKnownAs":"Garden asparagus"},
+  {"ScientificName":"Avena sativa","CommonEnglishName":"Oats","WidelyKnownAs":"Common oat"},
+  {"ScientificName":"Azadirachta indica","CommonEnglishName":"Neem","WidelyKnownAs":"Neem tree"},
+  {"ScientificName":"Bambusa vulgaris","CommonEnglishName":"Bamboo","WidelyKnownAs":"Common bamboo"},
+  {"ScientificName":"Beta vulgaris","CommonEnglishName":"Beetroot","WidelyKnownAs":"Beet"},
+  {"ScientificName":"Bixa orellana","CommonEnglishName":"Annatto","WidelyKnownAs":"Achiote"},
+  {"ScientificName":"Blighia sapida","CommonEnglishName":"Ackee","WidelyKnownAs":"Ackee apple"},
+  {"ScientificName":"Brachiaria brizantha","CommonEnglishName":"Palisade grass","WidelyKnownAs":"Brachiaria"},
+  {"ScientificName":"Brachiaria decumbens","CommonEnglishName":"Signal grass","WidelyKnownAs":"Creeping signal grass"},
+  {"ScientificName":"Brassica juncea","CommonEnglishName":"Mustard greens","WidelyKnownAs":"Indian mustard"},
+  {"ScientificName":"Brassica napus","CommonEnglishName":"Rapeseed","WidelyKnownAs":"Canola"},
+  {"ScientificName":"Brassica oleracea","CommonEnglishName":"Cabbage","WidelyKnownAs":"Cole crop"},
+  {"ScientificName":"Brassica oleracea var. botrytis","CommonEnglishName":"Cauliflower","WidelyKnownAs":"Cauli"},
+  {"ScientificName":"Brassica oleracea var. italica","CommonEnglishName":"Broccoli","WidelyKnownAs":"Green broccoli"},
+  {"ScientificName":"Brassica rapa","CommonEnglishName":"Turnip","WidelyKnownAs":"Field mustard"},
+  {"ScientificName":"Cajanus cajan","CommonEnglishName":"Pigeon pea","WidelyKnownAs":"Red gram"},
+  {"ScientificName":"Calotropis procera","CommonEnglishName":"Apple of Sodom","WidelyKnownAs":"Rubber bush"},
+  {"ScientificName":"Capsicum annuum","CommonEnglishName":"Pepper","WidelyKnownAs":"Sweet pepper"},
+  {"ScientificName":"Capsicum frutescens","CommonEnglishName":"Chili pepper","WidelyKnownAs":"Bird’s eye chili"},
+  {"ScientificName":"Carica papaya","CommonEnglishName":"Papaya","WidelyKnownAs":"Pawpaw"},
+  {"ScientificName":"Carissa macrocarpa","CommonEnglishName":"Natal plum","WidelyKnownAs":"Large num-num"},
+  {"ScientificName":"Carthamus tinctorius","CommonEnglishName":"Safflower","WidelyKnownAs":"False saffron"},
+  {"ScientificName":"Casuarina equisetifolia","CommonEnglishName":"Australian pine","WidelyKnownAs":"Whistling pine"},
+  {"ScientificName":"Catharanthus roseus","CommonEnglishName":"Madagascar periwinkle","WidelyKnownAs":"Vinca"},
+  {"ScientificName":"Cenchrus ciliaris","CommonEnglishName":"Buffel grass","WidelyKnownAs":"African foxtail"},
+  {"ScientificName":"Chenopodium album","CommonEnglishName":"Lamb’s quarters","WidelyKnownAs":"Wild spinach"},
+  {"ScientificName":"Cicer arietinum","CommonEnglishName":"Chickpea","WidelyKnownAs":"Garbanzo bean"},
+  {"ScientificName":"Cinnamomum verum","CommonEnglishName":"Cinnamon","WidelyKnownAs":"True cinnamon"},
+  {"ScientificName":"Citrullus lanatus","CommonEnglishName":"Watermelon","WidelyKnownAs":"Sweet melon"},
+  {"ScientificName":"Citrus limon","CommonEnglishName":"Lemon","WidelyKnownAs":"Lemon fruit"},
+  {"ScientificName":"Citrus sinensis","CommonEnglishName":"Orange","WidelyKnownAs":"Sweet orange"},
+  {"ScientificName":"Cocos nucifera","CommonEnglishName":"Coconut","WidelyKnownAs":"Coconut palm"},
+  {"ScientificName":"Coffea arabica","CommonEnglishName":"Arabica coffee","WidelyKnownAs":"Coffee"},
+  {"ScientificName":"Coffea canephora","CommonEnglishName":"Robusta coffee","WidelyKnownAs":"Robusta"},
+  {"ScientificName":"Colocasia esculenta","CommonEnglishName":"Taro","WidelyKnownAs":"Cocoyam"},
+  {"ScientificName":"Corchorus olitorius","CommonEnglishName":"Jute mallow","WidelyKnownAs":"Molokhia"},
+  {"ScientificName":"Coriandrum sativum","CommonEnglishName":"Coriander","WidelyKnownAs":"Cilantro"},
+  {"ScientificName":"Crotalaria juncea","CommonEnglishName":"Sunn hemp","WidelyKnownAs":"Indian hemp"},
+  {"ScientificName":"Cucumis sativus","CommonEnglishName":"Cucumber","WidelyKnownAs":"Garden cucumber"},
+  {"ScientificName":"Cucurbita maxima","CommonEnglishName":"Pumpkin","WidelyKnownAs":"Winter squash"},
+  {"ScientificName":"Cucurbita moschata","CommonEnglishName":"Butternut squash","WidelyKnownAs":"Musky pumpkin"},
+  {"ScientificName":"Cymbopogon citratus","CommonEnglishName":"Lemongrass","WidelyKnownAs":"Lemon grass"},
+  {"ScientificName":"Cynodon dactylon","CommonEnglishName":"Bermuda grass","WidelyKnownAs":"Couch grass"},
+  {"ScientificName":"Daucus carota","CommonEnglishName":"Carrot","WidelyKnownAs":"Garden carrot"},
+  {"ScientificName":"Desmodium intortum","CommonEnglishName":"Greenleaf desmodium","WidelyKnownAs":"Silverleaf desmodium"},
+  {"ScientificName":"Dolichos lablab","CommonEnglishName":"Lablab bean","WidelyKnownAs":"Hyacinth bean"},
+  {"ScientificName":"Eleusine coracana","CommonEnglishName":"Finger millet","WidelyKnownAs":"Ragi"},
+  {"ScientificName":"Eragrostis tef","CommonEnglishName":"Teff","WidelyKnownAs":"Teff grass"},
+  {"ScientificName":"Erythrina abyssinica","CommonEnglishName":"Coral tree","WidelyKnownAs":"Flame tree"},
+  {"ScientificName":"Eucalyptus camaldulensis","CommonEnglishName":"River red gum","WidelyKnownAs":"Red gum"},
+  {"ScientificName":"Eucalyptus grandis","CommonEnglishName":"Rose gum","WidelyKnownAs":"Flooded gum"},
+  {"ScientificName":"Euphorbia tirucalli","CommonEnglishName":"Pencil tree","WidelyKnownAs":"Milk bush"},
+  {"ScientificName":"Faidherbia albida","CommonEnglishName":"Apple-ring acacia","WidelyKnownAs":"Winter thorn"},
+  {"ScientificName":"Foeniculum vulgare","CommonEnglishName":"Fennel","WidelyKnownAs":"Sweet fennel"},
+  {"ScientificName":"Glycine max","CommonEnglishName":"Soybean","WidelyKnownAs":"Soya bean"},
+  {"ScientificName":"Gossypium hirsutum","CommonEnglishName":"Cotton","WidelyKnownAs":"Upland cotton"},
+  {"ScientificName":"Helianthus annuus","CommonEnglishName":"Sunflower","WidelyKnownAs":"Common sunflower"},
+  {"ScientificName":"Hibiscus cannabinus","CommonEnglishName":"Kenaf","WidelyKnownAs":"Deccan hemp"},
+  {"ScientificName":"Hibiscus sabdariffa","CommonEnglishName":"Roselle","WidelyKnownAs":"Red sorrel"},
+  {"ScientificName":"Ipomoea batatas","CommonEnglishName":"Sweet potato","WidelyKnownAs":"Sweet yam"},
+  {"ScientificName":"Lactuca sativa","CommonEnglishName":"Lettuce","WidelyKnownAs":"Garden lettuce"},
+  {"ScientificName":"Mangifera indica","CommonEnglishName":"Mango","WidelyKnownAs":"Mango tree"},
+  {"ScientificName":"Manihot esculenta","CommonEnglishName":"Cassava","WidelyKnownAs":"Manioc"},
+  {"ScientificName":"Moringa oleifera","CommonEnglishName":"Drumstick tree","WidelyKnownAs":"Moringa"},
+  {"ScientificName":"Musa acuminata","CommonEnglishName":"Banana","WidelyKnownAs":"Dessert banana"},
+  {"ScientificName":"Musa paradisiaca","CommonEnglishName":"Plantain","WidelyKnownAs":"Cooking banana"},
+  {"ScientificName":"Oryza sativa","CommonEnglishName":"Rice","WidelyKnownAs":"Paddy rice"},
+  {"ScientificName":"Pennisetum glaucum","CommonEnglishName":"Pearl millet","WidelyKnownAs":"Bulrush millet"},
+  {"ScientificName":"Phaseolus vulgaris","CommonEnglishName":"Common bean","WidelyKnownAs":"Dry bean"},
+  {"ScientificName":"Saccharum officinarum","CommonEnglishName":"Sugarcane","WidelyKnownAs":"Cane sugar"},
+  {"ScientificName":"Sorghum bicolor","CommonEnglishName":"Sorghum","WidelyKnownAs":"Great millet"},
+  {"ScientificName":"Vigna radiata","CommonEnglishName":"Mung bean","WidelyKnownAs":"Green gram"},
+  {"ScientificName":"Vigna unguiculata","CommonEnglishName":"Cowpea","WidelyKnownAs":"Black-eyed pea"},
+  {"ScientificName":"Zea mays","CommonEnglishName":"Maize","WidelyKnownAs":"Corn"},
+  {"ScientificName":"Acacia mangium","CommonEnglishName":"Mangium","WidelyKnownAs":"Black wattle"},
+  {"ScientificName":"Acacia nilotica","CommonEnglishName":"Gum arabic tree","WidelyKnownAs":"Egyptian thorn"},
+  {"ScientificName":"Acacia senegal","CommonEnglishName":"Gum arabic tree","WidelyKnownAs":"Sudan gum acacia"},
+  {"ScientificName":"Achyranthes aspera","CommonEnglishName":"Prickly chaff flower","WidelyKnownAs":"Devil’s horsewhip"},
+  {"ScientificName":"Aegle marmelos","CommonEnglishName":"Bael","WidelyKnownAs":"Stone apple"},
+  {"ScientificName":"Aeschynomene histrix","CommonEnglishName":"Jointvetch","WidelyKnownAs":"Shrubby jointvetch"},
+  {"ScientificName":"Aframomum corrorima","CommonEnglishName":"Ethiopian cardamom","WidelyKnownAs":"Korarima"},
+  {"ScientificName":"Agrostis capillaris","CommonEnglishName":"Common bentgrass","WidelyKnownAs":"Bent grass"},
+  {"ScientificName":"Albizia saman","CommonEnglishName":"Rain tree","WidelyKnownAs":"Monkey pod"},
+  {"ScientificName":"Aloysia citrodora","CommonEnglishName":"Lemon verbena","WidelyKnownAs":"Verbena"},
+  {"ScientificName":"Ammi majus","CommonEnglishName":"Bishop’s weed","WidelyKnownAs":"Queen Anne’s lace"},
+  {"ScientificName":"Anethum graveolens","CommonEnglishName":"Dill","WidelyKnownAs":"Dill weed"},
+  {"ScientificName":"Artemisia absinthium","CommonEnglishName":"Wormwood","WidelyKnownAs":"Absinthe plant"},
+  {"ScientificName":"Asclepias curassavica","CommonEnglishName":"Bloodflower","WidelyKnownAs":"Tropical milkweed"},
+  {"ScientificName":"Atriplex nummularia","CommonEnglishName":"Saltbush","WidelyKnownAs":"Old man saltbush"},
+  {"ScientificName":"Balanites aegyptiaca","CommonEnglishName":"Desert date","WidelyKnownAs":"Soapberry tree"},
+  {"ScientificName":"Basella alba","CommonEnglishName":"Malabar spinach","WidelyKnownAs":"Ceylon spinach"},
+  {"ScientificName":"Bidens pilosa","CommonEnglishName":"Blackjack","WidelyKnownAs":"Spanish needle"},
+  {"ScientificName":"Boerhavia diffusa","CommonEnglishName":"Spreading hogweed","WidelyKnownAs":"Punarnava"},
+  {"ScientificName":"Bromus inermis","CommonEnglishName":"Smooth brome","WidelyKnownAs":"Brome grass"},
+  {"ScientificName":"Cajanus scarabaeoides","CommonEnglishName":"Wild pigeon pea","WidelyKnownAs":"Jungle pea"},
+  {"ScientificName":"Calopogonium mucunoides","CommonEnglishName":"Calopo","WidelyKnownAs":"Calopo vine"},
+  {"ScientificName":"Canna indica","CommonEnglishName":"Indian shot","WidelyKnownAs":"Canna lily"},
+  {"ScientificName":"Capsicum chinense","CommonEnglishName":"Habanero pepper","WidelyKnownAs":"Scotch bonnet"},
+  {"ScientificName":"Cassia fistula","CommonEnglishName":"Golden shower tree","WidelyKnownAs":"Indian laburnum"},
+  {"ScientificName":"Celosia argentea","CommonEnglishName":"Cockscomb","WidelyKnownAs":"Plumed celosia"},
+  {"ScientificName":"Centella asiatica","CommonEnglishName":"Gotu kola","WidelyKnownAs":"Indian pennywort"},
+  {"ScientificName":"Ceratonia siliqua","CommonEnglishName":"Carob","WidelyKnownAs":"St John’s bread"},
+  {"ScientificName":"Chamaecrista rotundifolia","CommonEnglishName":"Wynn cassia","WidelyKnownAs":"Pasture cassia"},
+  {"ScientificName":"Cicerbita alpina","CommonEnglishName":"Blue sow-thistle","WidelyKnownAs":"Alpine lettuce"},
+  {"ScientificName":"Citrus aurantiifolia","CommonEnglishName":"Lime","WidelyKnownAs":"Key lime"},
+  {"ScientificName":"Cleome gynandra","CommonEnglishName":"Spider plant","WidelyKnownAs":"African cabbage"},
+  {"ScientificName":"Clitoria ternatea","CommonEnglishName":"Butterfly pea","WidelyKnownAs":"Blue pea"},
+  {"ScientificName":"Coccinia grandis","CommonEnglishName":"Ivy gourd","WidelyKnownAs":"Scarlet gourd"},
+  {"ScientificName":"Coffea liberica","CommonEnglishName":"Liberica coffee","WidelyKnownAs":"Liberian coffee"},
+  {"ScientificName":"Commelina benghalensis","CommonEnglishName":"Benghal dayflower","WidelyKnownAs":"Wandering Jew"},
+  {"ScientificName":"Crotalaria pallida","CommonEnglishName":"Smooth rattlepod","WidelyKnownAs":"Striped rattlepod"},
+  {"ScientificName":"Cucumis anguria","CommonEnglishName":"West Indian gherkin","WidelyKnownAs":"Bur cucumber"},
+  {"ScientificName":"Cucurbita pepo","CommonEnglishName":"Zucchini","WidelyKnownAs":"Summer squash"},
+  {"ScientificName":"Cyamopsis tetragonoloba","CommonEnglishName":"Guar","WidelyKnownAs":"Cluster bean"},
+  {"ScientificName":"Cyperus esculentus","CommonEnglishName":"Tiger nut","WidelyKnownAs":"Earth almond"},
+  {"ScientificName":"Datura stramonium","CommonEnglishName":"Jimsonweed","WidelyKnownAs":"Thorn apple"},
+  {"ScientificName":"Dioscorea alata","CommonEnglishName":"Greater yam","WidelyKnownAs":"Water yam"},
+  {"ScientificName":"Dioscorea rotundata","CommonEnglishName":"White yam","WidelyKnownAs":"Guinea yam"},
+  {"ScientificName":"Echinacea purpurea","CommonEnglishName":"Purple coneflower","WidelyKnownAs":"Echinacea"},
+  {"ScientificName":"Ensete ventricosum","CommonEnglishName":"False banana","WidelyKnownAs":"Enset"},
+  {"ScientificName":"Eruca sativa","CommonEnglishName":"Arugula","WidelyKnownAs":"Rocket"},
+  {"ScientificName":"Erythrina variegata","CommonEnglishName":"Indian coral tree","WidelyKnownAs":"Tiger’s claw"},
+  {"ScientificName":"Ficus sycomorus","CommonEnglishName":"Sycamore fig","WidelyKnownAs":"Fig-mulberry"},
+  {"ScientificName":"Garcinia kola","CommonEnglishName":"Bitter kola","WidelyKnownAs":"African kola"},
+  {"ScientificName":"Gongronema latifolium","CommonEnglishName":"Bush buck","WidelyKnownAs":"Utazi"},
+  {"ScientificName":"Guizotia abyssinica","CommonEnglishName":"Niger seed","WidelyKnownAs":"Noug"},
+  {"ScientificName":"Hordeum vulgare","CommonEnglishName":"Barley","WidelyKnownAs":"Common barley"},
+  {"ScientificName":"Hyptis suaveolens","CommonEnglishName":"Bush mint","WidelyKnownAs":"Pignut"},
+  {"ScientificName":"Jatropha curcas","CommonEnglishName":"Physic nut","WidelyKnownAs":"Jatropha"},
+  {"ScientificName":"Lablab purpureus","CommonEnglishName":"Hyacinth bean","WidelyKnownAs":"Lablab"},
+  {"ScientificName":"Lens culinaris","CommonEnglishName":"Lentil","WidelyKnownAs":"Red lentil"},
+  {"ScientificName":"Leucaena leucocephala","CommonEnglishName":"Lead tree","WidelyKnownAs":"Ipil-ipil"},
+  {"ScientificName":"Linum usitatissimum","CommonEnglishName":"Flax","WidelyKnownAs":"Linseed"},
+  {"ScientificName":"Luffa acutangula","CommonEnglishName":"Ridge gourd","WidelyKnownAs":"Angled loofah"},
+  {"ScientificName":"Macrotyloma uniflorum","CommonEnglishName":"Horse gram","WidelyKnownAs":"Kulthi bean"},
+  {"ScientificName":"Momordica charantia","CommonEnglishName":"Bitter gourd","WidelyKnownAs":"Bitter melon"},
+  {"ScientificName":"Mucuna pruriens","CommonEnglishName":"Velvet bean","WidelyKnownAs":"Cowitch"},
+  {"ScientificName":"Nigella sativa","CommonEnglishName":"Black cumin","WidelyKnownAs":"Black seed"},
+  {"ScientificName":"Ocimum basilicum","CommonEnglishName":"Basil","WidelyKnownAs":"Sweet basil"},
+  {"ScientificName":"Ocimum gratissimum","CommonEnglishName":"African basil","WidelyKnownAs":"Clove basil"},
+  {"ScientificName":"Panicum maximum","CommonEnglishName":"Guinea grass","WidelyKnownAs":"Green panic"},
+  {"ScientificName":"Parkia biglobosa","CommonEnglishName":"African locust bean","WidelyKnownAs":"Néré"},
+  {"ScientificName":"Passiflora edulis","CommonEnglishName":"Passion fruit","WidelyKnownAs":"Granadilla"},
+  {"ScientificName":"Phoenix dactylifera","CommonEnglishName":"Date palm","WidelyKnownAs":"Date tree"},
+  {"ScientificName":"Psidium guajava","CommonEnglishName":"Guava","WidelyKnownAs":"Apple guava"},
+  {"ScientificName":"Ricinus communis","CommonEnglishName":"Castor bean","WidelyKnownAs":"Castor oil plant"},
+  {"ScientificName":"Sesamum indicum","CommonEnglishName":"Sesame","WidelyKnownAs":"Beniseed"},
+  {"ScientificName":"Solanum aethiopicum","CommonEnglishName":"African eggplant","WidelyKnownAs":"Garden egg"},
+  {"ScientificName":"Solanum lycopersicum","CommonEnglishName":"Tomato","WidelyKnownAs":"Garden tomato"},
+  {"ScientificName":"Solanum melongena","CommonEnglishName":"Eggplant","WidelyKnownAs":"Aubergine"},
+  {"ScientificName":"Tamarindus indica","CommonEnglishName":"Tamarind","WidelyKnownAs":"Tamarind tree"},
+  {"ScientificName":"Trigonella foenum-graecum","CommonEnglishName":"Fenugreek","WidelyKnownAs":"Methi"},
+  {"ScientificName":"Vernonia amygdalina","CommonEnglishName":"Bitter leaf","WidelyKnownAs":"African bitter leaf"},
+  {"ScientificName":"Xanthosoma sagittifolium","CommonEnglishName":"Tannia","WidelyKnownAs":"Cocoyam"},
+  {"ScientificName":"Abutilon theophrasti","CommonEnglishName":"Velvetleaf","WidelyKnownAs":"China jute"},
+  {"ScientificName":"Acacia dealbata","CommonEnglishName":"Silver wattle","WidelyKnownAs":"Mimosa"},
+  {"ScientificName":"Acacia seyal","CommonEnglishName":"Red acacia","WidelyKnownAs":"Shittah tree"},
+  {"ScientificName":"Acanthus ebracteatus","CommonEnglishName":"Sea holly","WidelyKnownAs":"Sea acanthus"},
+  {"ScientificName":"Acer saccharum","CommonEnglishName":"Sugar maple","WidelyKnownAs":"Hard maple"},
+  {"ScientificName":"Achillea millefolium","CommonEnglishName":"Yarrow","WidelyKnownAs":"Common yarrow"},
+  {"ScientificName":"Acmella oleracea","CommonEnglishName":"Toothache plant","WidelyKnownAs":"Paracress"},
+  {"ScientificName":"Acorus calamus","CommonEnglishName":"Sweet flag","WidelyKnownAs":"Calamus"},
+  {"ScientificName":"Adansonia digitata","CommonEnglishName":"Baobab","WidelyKnownAs":"African baobab"},
+  {"ScientificName":"Aerva lanata","CommonEnglishName":"Mountain knotgrass","WidelyKnownAs":"Gorakh ganja"},
+  {"ScientificName":"Aframomum melegueta","CommonEnglishName":"Grains of paradise","WidelyKnownAs":"Guinea pepper"},
+  {"ScientificName":"Agave americana","CommonEnglishName":"Century plant","WidelyKnownAs":"American agave"},
+  {"ScientificName":"Ageratum conyzoides","CommonEnglishName":"Billygoat weed","WidelyKnownAs":"Goat weed"},
+  {"ScientificName":"Albizia chinensis","CommonEnglishName":"Chinese albizia","WidelyKnownAs":"Yellow siris"},
+  {"ScientificName":"Alchornea cordifolia","CommonEnglishName":"Christmas bush","WidelyKnownAs":"Broadleaf"},
+  {"ScientificName":"Alnus glutinosa","CommonEnglishName":"Black alder","WidelyKnownAs":"European alder"},
+  {"ScientificName":"Alopecurus pratensis","CommonEnglishName":"Meadow foxtail","WidelyKnownAs":"Foxtail grass"},
+  {"ScientificName":"Alternanthera sessilis","CommonEnglishName":"Sessile joyweed","WidelyKnownAs":"Water amaranth"},
+  {"ScientificName":"Amorphophallus konjac","CommonEnglishName":"Konjac","WidelyKnownAs":"Elephant yam"},
+  {"ScientificName":"Anethum sowa","CommonEnglishName":"Indian dill","WidelyKnownAs":"Sowa dill"},
+  {"ScientificName":"Angelica archangelica","CommonEnglishName":"Garden angelica","WidelyKnownAs":"Angelica"},
+  {"ScientificName":"Artemisia vulgaris","CommonEnglishName":"Mugwort","WidelyKnownAs":"Common wormwood"},
+  {"ScientificName":"Asclepias syriaca","CommonEnglishName":"Common milkweed","WidelyKnownAs":"Silkweed"},
+  {"ScientificName":"Aspalathus linearis","CommonEnglishName":"Rooibos","WidelyKnownAs":"Red bush tea"},
+  {"ScientificName":"Atriplex hortensis","CommonEnglishName":"Orache","WidelyKnownAs":"Mountain spinach"},
+  {"ScientificName":"Basella rubra","CommonEnglishName":"Red Malabar spinach","WidelyKnownAs":"Ceylon spinach"},
+  {"ScientificName":"Bauhinia variegata","CommonEnglishName":"Orchid tree","WidelyKnownAs":"Mountain ebony"},
+  {"ScientificName":"Beta vulgaris subsp. cicla","CommonEnglishName":"Swiss chard","WidelyKnownAs":"Leaf beet"},
+  {"ScientificName":"Brachystegia spiciformis","CommonEnglishName":"Msasa","WidelyKnownAs":"African teak"},
+  {"ScientificName":"Brassica carinata","CommonEnglishName":"Ethiopian mustard","WidelyKnownAs":"Abyssinian mustard"},
+  {"ScientificName":"Caladium bicolor","CommonEnglishName":"Heart of Jesus","WidelyKnownAs":"Caladium"},
+  {"ScientificName":"Calliandra calothyrsus","CommonEnglishName":"Powder puff tree","WidelyKnownAs":"Calliandra"},
+  {"ScientificName":"Canavalia ensiformis","CommonEnglishName":"Jack bean","WidelyKnownAs":"Horse bean"},
+  {"ScientificName":"Capsella bursa-pastoris","CommonEnglishName":"Shepherd’s purse","WidelyKnownAs":"Mother’s heart"},
+  {"ScientificName":"Cassava edulis","CommonEnglishName":"Cassava","WidelyKnownAs":"Manioc"},
+  {"ScientificName":"Celtis africana","CommonEnglishName":"White stinkwood","WidelyKnownAs":"African nettle tree"},
+  {"ScientificName":"Cenchrus purpureus","CommonEnglishName":"Napier grass","WidelyKnownAs":"Elephant grass"},
+  {"ScientificName":"Chenopodium quinoa","CommonEnglishName":"Quinoa","WidelyKnownAs":"Inca grain"},
+  {"ScientificName":"Chloris gayana","CommonEnglishName":"Rhodes grass","WidelyKnownAs":"Giant Rhodes grass"},
+  {"ScientificName":"Cissus quadrangularis","CommonEnglishName":"Veldt grape","WidelyKnownAs":"Devil’s backbone"},
+  {"ScientificName":"Clausena anisata","CommonEnglishName":"Horsewood","WidelyKnownAs":"Perdepis"},
+  {"ScientificName":"Cleome viscosa","CommonEnglishName":"Asian spiderflower","WidelyKnownAs":"Tickweed"},
+  {"ScientificName":"Coccinia abyssinica","CommonEnglishName":"Ethiopian gourd","WidelyKnownAs":"Anchote"},
+  {"ScientificName":"Coix lacryma-jobi","CommonEnglishName":"Job’s tears","WidelyKnownAs":"Adlay"},
+  {"ScientificName":"Crotalaria brevidens","CommonEnglishName":"Slenderleaf","WidelyKnownAs":"African crotalaria"},
+  {"ScientificName":"Curcuma longa","CommonEnglishName":"Turmeric","WidelyKnownAs":"Indian saffron"},
+  {"ScientificName":"Cymbopogon nardus","CommonEnglishName":"Citronella grass","WidelyKnownAs":"Citronella"},
+  {"ScientificName":"Diospyros mespiliformis","CommonEnglishName":"African ebony","WidelyKnownAs":"Jackalberry"},
+  {"ScientificName":"Erythrina edulis","CommonEnglishName":"Basul bean tree","WidelyKnownAs":"Chachafruto"},
+  {"ScientificName":"Ficus thonningii","CommonEnglishName":"Strangler fig","WidelyKnownAs":"Wild fig"},
+  {"ScientificName":"Hibiscus tiliaceus","CommonEnglishName":"Sea hibiscus","WidelyKnownAs":"Coast cottonwood"},
+  {"ScientificName":"Hyphaene coriacea","CommonEnglishName":"Ilala palm","WidelyKnownAs":"Doum palm"},
+  {"ScientificName":"Juncus effusus","CommonEnglishName":"Soft rush","WidelyKnownAs":"Common rush"},
+  {"ScientificName":"Lagenaria siceraria","CommonEnglishName":"Bottle gourd","WidelyKnownAs":"Calabash"},
+  {"ScientificName":"Leersia hexandra","CommonEnglishName":"Swamp rice grass","WidelyKnownAs":"Southern cutgrass"},
+  {"ScientificName":"Medicago sativa","CommonEnglishName":"Alfalfa","WidelyKnownAs":"Lucerne"},
+  {"ScientificName":"Moringa stenopetala","CommonEnglishName":"African moringa","WidelyKnownAs":"Cabbage tree"},
+  {"ScientificName":"Paspalum notatum","CommonEnglishName":"Bahia grass","WidelyKnownAs":"Pensacola grass"},
+  {"ScientificName":"Plectranthus amboinicus","CommonEnglishName":"Indian borage","WidelyKnownAs":"Cuban oregano"},
+  {"ScientificName":"Sesbania sesban","CommonEnglishName":"Riverhemp","WidelyKnownAs":"Sesban"},
+  {"ScientificName":"Telfairia occidentalis","CommonEnglishName":"Fluted pumpkin","WidelyKnownAs":"Ugu"}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# read_ecocrop.py
+import pandas as pd
+from pathlib import Path
+
+DATA_FILE = Path(__file__).parent / "data" / "ecocrop_utf8.csv"
+
+def load_ecocrop_data():
+    try:
+        df = pd.read_csv(DATA_FILE, encoding="utf-8")
+        print(f"CSV loaded successfully with utf-8! {len(df)} rows, {len(df.columns)} columns")
+        return df
+    except UnicodeDecodeError:
+        print("UTF-8 failed, trying latin1 encoding...")
+        df = pd.read_csv(DATA_FILE, encoding="latin1")
+        print(f"CSV loaded successfully with latin1! {len(df)} rows, {len(df.columns)} columns")
+        return df
+    except FileNotFoundError:
+        print(f"File not found: {DATA_FILE}")
+    except Exception as e:
+        print(f"Error reading CSV: {e}")
+
+# Query crops by temperature range
+# Query crops by temperature range
+def find_crops_by_temp(topmn: float, topmx: float, tmin: float, tmax: float, df=None):
+    """
+    Return crops whose temperature ranges overlap with given input.
+    Now returns CommonEnglishName and WidelyKnownAs.
+    """
+    if df is None:
+        df = load_ecocrop_data()
+    if df is None:
+        return []
+
+    # Convert columns to numeric if not already
+    temp_cols = ["TOPMN","TOPMX","TMIN","TMAX"]
+    for col in temp_cols:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
+
+    # Filter crops whose ranges overlap
+    filtered = df[
+        (df["TOPMX"] >= topmn) & (df["TOPMN"] <= topmx) & 
+        (df["TMAX"] >= tmin) & (df["TMIN"] <= tmax)
+    ]
+
+    # Return as "CommonEnglishName (widely known as WidelyKnownAs)"
+    results = []
+    for _, row in filtered.iterrows():
+        common_name = row.get("CommonEnglishName") or row.get("COMNAME") or ""
+        widely_known = row.get("WidelyKnownAs", "")
+        if common_name and widely_known:
+            results.append(f"{common_name} (widely known as {widely_known})")
+        elif common_name:
+            results.append(common_name)
+        elif widely_known:
+            results.append(widely_known)
+    return results
+
+
+

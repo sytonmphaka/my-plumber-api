@@ -1,6 +1,0 @@
-library(rsconnect)
-rsconnect::setAccountInfo(name='sytonfloods',
-                          token='5C4D25657FBDF677D53D311E7F6FBF0B',
-                          secret='6X1wXO64YkeTXH93VCz5Y75BWktvu1mlNy74Mx1e')
-library(rsconnect)
-rsconnect::deployApp('C:/Users/SYTON/Desktop/Rprojects/floods')

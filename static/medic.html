@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MedCrop Search</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; background: #f4f6f8; }
+        input, select { padding: 8px; margin: 5px 0; width: 300px; }
+        button { padding: 8px 16px; margin-top: 10px; cursor: pointer; }
+        .result { border: 1px solid #ddd; padding: 15px; margin: 10px 0; background: #fff; border-radius: 8px; }
+        .plant-block img { display: block; margin-bottom: 10px; border-radius: 5px; }
+        h4 { margin: 5px 0; }
+        p { margin: 3px 0; }
+    </style>
+</head>
+<body>
+    <h2>MedCrop: Plant & Medicinal Search</h2>
+
+    <input type="text" id="query" placeholder="Enter plant name or illness" />
+    <select id="search_type">
+        <option value="plant">Plant Name</option>
+        <option value="illness">Illness / Condition</option>
+    </select>
+    <button onclick="searchMedic()">Search</button>
+
+    <div id="results"></div>
+
+    <script>
+    async function searchMedic() {
+        const query = document.getElementById("query").value;
+        const search_type = document.getElementById("search_type").value;
+        if(!query) return;
+
+        const res = await fetch(`/api/medic?query=${encodeURIComponent(query)}&search_type=${search_type}`);
+        const data = await res.json();
+
+        const resultsDiv = document.getElementById("results");
+        resultsDiv.innerHTML = "";
+
+        if (data.results.length === 0) {
+            resultsDiv.innerHTML = "<p>No results found</p>";
+            return;
+        }
+
+        data.results.forEach(r => {
+            const div = document.createElement("div");
+            div.className = "result";
+            div.innerHTML = r;
+            resultsDiv.appendChild(div);
+        });
+    }
+    </script>
+</body>
+</html>

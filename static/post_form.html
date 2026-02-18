@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Community Posts</title>
+
+<style>
+* { box-sizing: border-box; font-family: Arial, sans-serif; }
+
+body {
+    background: #f0f4f8;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+.container {
+    width: 100%;
+    max-width: 600px;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    margin-bottom: 25px;
+}
+
+h2, h3 { color: #2c3e50; margin-bottom: 15px; }
+
+label { font-weight: bold; margin-top: 10px; display: block; }
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.btn-primary { background: #27ae60; color: white; }
+.btn-danger { background: #e74c3c; color: white; }
+.btn-view { background: #3498db; color: white; }
+
+.post {
+    border-bottom: 1px solid #eee;
+    padding: 15px 0;
+    cursor: pointer;
+}
+
+.post img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.status { margin-top: 10px; padding: 10px; border-radius: 8px; display:none; }
+.success { background:#dff0d8; color:#3c763d; }
+.error { background:#f2dede; color:#a94442; }
+
+.full-post img { margin-top: 15px; }
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<!-- CREATE POST -->
+<div class="card">
+<h2>Create Community Post</h2>
+
+<form id="postForm" enctype="multipart/form-data">
+<label>Title</label>
+<input type="text" name="title">
+
+<label>Content</label>
+<textarea name="content" rows="4"></textarea>
+
+<label>Category *</label>
+<input type="text" name="category" required>
+
+<label>District</label>
+<input type="text" name="district">
+
+<label>Image</label>
+<input type="file" name="image">
+
+<button class="btn-primary" type="submit">Post</button>
+</form>
+
+<div id="statusMessage" class="status"></div>
+</div>
+
+<!-- VIEW POSTS -->
+<div class="card">
+<button class="btn-view" onclick="loadPosts()">View Posts</button>
+<div id="posts"></div>
+</div>
+
+<!-- FULL POST -->
+<div class="card full-post" id="fullPost" style="display:none;"></div>
+
+</div>
+
+<script>
+const statusDiv = document.getElementById("statusMessage");
+
+// CREATE POST
+document.getElementById("postForm").addEventListener("submit", async e => {
+    e.preventDefault();
+    const formData = new FormData(e.target);
+
+    const res = await fetch("/post", { method:"POST", body:formData });
+    const data = await res.json();
+
+    statusDiv.textContent = data.status || data.error;
+    statusDiv.className = "status " + (res.ok ? "success":"error");
+    statusDiv.style.display = "block";
+
+    if(res.ok) e.target.reset();
+});
+
+// LOAD POSTS
+async function loadPosts() {
+    const res = await fetch("/posts");
+    const posts = await res.json();
+    const container = document.getElementById("posts");
+    container.innerHTML = "";
+
+    posts.forEach(p => {
+        const div = document.createElement("div");
+        div.className = "post";
+        div.innerHTML = `
+            <strong>${p.title || "No title"}</strong>
+            <p>${(p.content || "").slice(0,80)}...</p>
+            ${p.image_url ? `<img src="${p.image_url}">` : ""}
+            <button class="btn-danger" onclick="deletePost('${p.id}', event)">Delete</button>
+        `;
+        div.onclick = () => openPost(p.id);
+        container.appendChild(div);
+    });
+}
+
+// OPEN FULL POST
+async function openPost(id) {
+    const res = await fetch(`/posts/${id}`);
+    const p = await res.json();
+    const full = document.getElementById("fullPost");
+
+    full.style.display = "block";
+    full.innerHTML = `
+        <h3>${p.title}</h3>
+        <p>${p.content}</p>
+        <p><b>Category:</b> ${p.category} | <b>District:</b> ${p.district || "N/A"}</p>
+        ${p.image_url ? `<img src="${p.image_url}">` : ""}
+        <button class="btn-danger" onclick="deletePost('${p.id}')">Delete Post</button>
+    `;
+}
+
+// DELETE POST
+async function deletePost(id, e) {
+    if(e) e.stopPropagation();
+    if(!confirm("Delete this post?")) return;
+
+    await fetch(`/posts/${id}`, { method:"DELETE" });
+    loadPosts();
+    document.getElementById("fullPost").style.display = "none";
+}
+</script>
+
+</body>
+</html>

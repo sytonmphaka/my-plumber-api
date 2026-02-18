@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EcoCrop Soil Selector</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            padding: 40px;
+        }
+
+        .container {
+            max-width: 500px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+
+        select, button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            font-size: 16px;
+        }
+
+        button {
+            margin-top: 25px;
+            background: #2e7d32;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background: #1b5e20;
+        }
+
+        ul {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Crop Selection by Soil</h2>
+
+    <label for="fertility">Fertility</label>
+    <select id="fertility">
+        <option value="high">High</option>
+        <option value="moderate">Moderate</option>
+        <option value="low">Low</option>
+    </select>
+
+    <label for="drainage">Drainage</label>
+    <select id="drainage">
+        <option value="well (dry spells)">Well (dry spells)</option>
+        <option value="poorly (saturated >50% of year)">Poorly (saturated &gt;50% of year)</option>
+        <option value="excessive (dry/moderately dry)">Excessive (dry/moderately dry)</option>
+    </select>
+
+    <label for="texture">Soil Texture</label>
+    <select id="texture">
+        <option value="heavy">Heavy</option>
+        <option value="medium">Medium</option>
+        <option value="light">Light</option>
+        <option value="organic">Organic</option>
+    </select>
+
+    <button onclick="findCrops()">Find Crops</button>
+
+    <ul id="results"></ul>
+</div>
+
+<script>
+async function findCrops() {
+    const fertility = document.getElementById("fertility").value;
+    const drainage = document.getElementById("drainage").value;
+    const texture = document.getElementById("texture").value;
+
+    const url = `/query-crops/?fertility=${encodeURIComponent(fertility)}&drainage=${encodeURIComponent(drainage)}&texture=${encodeURIComponent(texture)}`;
+
+    const response = await fetch(url);
+    const data = await response.json();
+
+    const list = document.getElementById("results");
+    list.innerHTML = "";
+
+const groups = Object.keys(data).sort((a, b) => {
+    if (a === "UNCLASSIFIED") return 1;
+    if (b === "UNCLASSIFIED") return -1;
+    return a.localeCompare(b);
+});
+
+
+    if (groups.length === 0) {
+        list.innerHTML = "<li>No matching crops found</li>";
+        return;
+    }
+
+    groups.forEach(groupName => {
+        const crops = data[groupName];
+
+        if (!Array.isArray(crops) || crops.length === 0) return;
+
+        // Group title
+        const header = document.createElement("li");
+        header.innerHTML = `<strong>${groupName}</strong>`;
+        header.style.marginTop = "15px";
+        list.appendChild(header);
+
+        // Crops under group
+        crops.forEach(crop => {
+            const li = document.createElement("li");
+            li.style.marginLeft = "20px";
+            li.textContent = "• " + crop;
+            list.appendChild(li);
+        });
+    });
+}
+</script>
+
+
+</body>
+</html>

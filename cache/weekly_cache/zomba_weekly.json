@@ -1,0 +1,688 @@
+{
+  "district": "Zomba",
+  "data": [
+    {
+      "date": "Tuesday 17 February",
+      "rows": [
+        {
+          "Time": "22:00",
+          "Weather": "",
+          "Max Temp": "19.4 °C",
+          "Min Temp": "19.2 °C",
+          "Rainfall": "1.0 mm",
+          "Wind Speed": "2.8",
+          "Wind Direction": "83.9"
+        },
+        {
+          "Time": "23:00",
+          "Weather": "",
+          "Max Temp": "19.4 °C",
+          "Min Temp": "19.1 °C",
+          "Rainfall": "1.2 mm",
+          "Wind Speed": "2.2",
+          "Wind Direction": "85.8"
+        }
+      ]
+    },
+    {
+      "date": "Wednesday 18 February",
+      "rows": [
+        {
+          "Time": "All day",
+          "Weather": "",
+          "Max Temp": "19.4 °C",
+          "Min Temp": "19.1 °C",
+          "Rainfall": "2.0 mm",
+          "Wind Speed": "1.4",
+          "Wind Direction": "83.2"
+        },
+        {
+          "Time": "2:00",
+          "Weather": "",
+          "Max Temp": "20.8 °C",
+          "Min Temp": "19.1 °C",
+          "Rainfall": "0.5 mm",
+          "Wind Speed": "2.1",
+          "Wind Direction": "79.3"
+        },
+        {
+          "Time": "3:00",
+          "Weather": "",
+          "Max Temp": "22.0 °C",
+          "Min Temp": "19.1 °C",
+          "Rainfall": "0.2 mm",
+          "Wind Speed": "2.5",
+          "Wind Direction": "81.7"
+        },
+        {
+          "Time": "4:00",
+          "Weather": "",
+          "Max Temp": "23.1 °C",
+          "Min Temp": "19.1 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "3.1",
+          "Wind Direction": "79.1"
+        },
+        {
+          "Time": "5:00",
+          "Weather": "",
+          "Max Temp": "24.0 °C",
+          "Min Temp": "19.2 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "3.2",
+          "Wind Direction": "78.1"
+        },
+        {
+          "Time": "6:00",
+          "Weather": "",
+          "Max Temp": "24.8 °C",
+          "Min Temp": "19.9 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "3.2",
+          "Wind Direction": "65.2"
+        },
+        {
+          "Time": "7:00",
+          "Weather": "",
+          "Max Temp": "25.4 °C",
+          "Min Temp": "20.8 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "2.8",
+          "Wind Direction": "69.5"
+        },
+        {
+          "Time": "8:00",
+          "Weather": "",
+          "Max Temp": "25.8 °C",
+          "Min Temp": "22.0 °C",
+          "Rainfall": "0.1 mm",
+          "Wind Speed": "3.8",
+          "Wind Direction": "60.9"
+        },
+        {
+          "Time": "9:00",
+          "Weather": "",
+          "Max Temp": "25.8 °C",
+          "Min Temp": "22.3 °C",
+          "Rainfall": "0.3 mm",
+          "Wind Speed": "4.5",
+          "Wind Direction": "67.2"
+        },
+        {
+          "Time": "10:00",
+          "Weather": "",
+          "Max Temp": "25.8 °C",
+          "Min Temp": "22.3 °C",
+          "Rainfall": "0.4 mm",
+          "Wind Speed": "4.2",
+          "Wind Direction": "53.6"
+        },
+        {
+          "Time": "11:00",
+          "Weather": "",
+          "Max Temp": "25.8 °C",
+          "Min Temp": "22.1 °C",
+          "Rainfall": "0.4 mm",
+          "Wind Speed": "4.5",
+          "Wind Direction": "52.6"
+        },
+        {
+          "Time": "12:00",
+          "Weather": "",
+          "Max Temp": "25.8 °C",
+          "Min Temp": "21.2 °C",
+          "Rainfall": "0.4 mm",
+          "Wind Speed": "4.2",
+          "Wind Direction": "57.8"
+        },
+        {
+          "Time": "13:00",
+          "Weather": "",
+          "Max Temp": "25.8 °C",
+          "Min Temp": "20.3 °C",
+          "Rainfall": "0.3 mm",
+          "Wind Speed": "3.9",
+          "Wind Direction": "60.0"
+        },
+        {
+          "Time": "14:00",
+          "Weather": "",
+          "Max Temp": "23.6 °C",
+          "Min Temp": "19.8 °C",
+          "Rainfall": "2.3 mm",
+          "Wind Speed": "3.8",
+          "Wind Direction": "61.2"
+        },
+        {
+          "Time": "15:00",
+          "Weather": "",
+          "Max Temp": "23.6 °C",
+          "Min Temp": "19.5 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "3.5",
+          "Wind Direction": "30.6"
+        },
+        {
+          "Time": "16:00",
+          "Weather": "",
+          "Max Temp": "22.1 °C",
+          "Min Temp": "19.5 °C",
+          "Rainfall": "3.2 mm",
+          "Wind Speed": "1.5",
+          "Wind Direction": "252.0"
+        },
+        {
+          "Time": "17:00",
+          "Weather": "",
+          "Max Temp": "21.2 °C",
+          "Min Temp": "19.5 °C",
+          "Rainfall": "0.1 mm",
+          "Wind Speed": "1.8",
+          "Wind Direction": "88.2"
+        },
+        {
+          "Time": "18:00",
+          "Weather": "",
+          "Max Temp": "20.3 °C",
+          "Min Temp": "19.5 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "2.3",
+          "Wind Direction": "96.0"
+        },
+        {
+          "Time": "19:00",
+          "Weather": "",
+          "Max Temp": "19.8 °C",
+          "Min Temp": "19.5 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "3.1",
+          "Wind Direction": "84.5"
+        },
+        {
+          "Time": "20:00",
+          "Weather": "",
+          "Max Temp": "19.7 °C",
+          "Min Temp": "19.5 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "2.4",
+          "Wind Direction": "65.5"
+        },
+        {
+          "Time": "21:00",
+          "Weather": "",
+          "Max Temp": "19.7 °C",
+          "Min Temp": "19.3 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.2",
+          "Wind Direction": "54.3"
+        },
+        {
+          "Time": "22:00",
+          "Weather": "",
+          "Max Temp": "19.7 °C",
+          "Min Temp": "19.2 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.5",
+          "Wind Direction": "71.5"
+        },
+        {
+          "Time": "23:00",
+          "Weather": "",
+          "Max Temp": "19.7 °C",
+          "Min Temp": "18.9 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "2.7",
+          "Wind Direction": "84.2"
+        }
+      ]
+    },
+    {
+      "date": "Thursday 19 February",
+      "rows": [
+        {
+          "Time": "All day",
+          "Weather": "",
+          "Max Temp": "19.7 °C",
+          "Min Temp": "18.9 °C",
+          "Rainfall": "0.4 mm",
+          "Wind Speed": "2.9",
+          "Wind Direction": "71.6"
+        },
+        {
+          "Time": "1:00",
+          "Weather": "",
+          "Max Temp": "20.8 °C",
+          "Min Temp": "18.9 °C",
+          "Rainfall": "0.3 mm",
+          "Wind Speed": "3.3",
+          "Wind Direction": "84.4"
+        },
+        {
+          "Time": "2:00",
+          "Weather": "",
+          "Max Temp": "22.4 °C",
+          "Min Temp": "18.9 °C",
+          "Rainfall": "1.2 mm",
+          "Wind Speed": "3.3",
+          "Wind Direction": "58.7"
+        },
+        {
+          "Time": "3:00",
+          "Weather": "",
+          "Max Temp": "23.6 °C",
+          "Min Temp": "18.9 °C",
+          "Rainfall": "0.1 mm",
+          "Wind Speed": "1.6",
+          "Wind Direction": "43.0"
+        },
+        {
+          "Time": "4:00",
+          "Weather": "",
+          "Max Temp": "24.7 °C",
+          "Min Temp": "18.9 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.7",
+          "Wind Direction": "63.3"
+        },
+        {
+          "Time": "5:00",
+          "Weather": "",
+          "Max Temp": "25.4 °C",
+          "Min Temp": "19.2 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.4",
+          "Wind Direction": "60.5"
+        },
+        {
+          "Time": "6:00",
+          "Weather": "",
+          "Max Temp": "26.2 °C",
+          "Min Temp": "20.8 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.6",
+          "Wind Direction": "63.7"
+        },
+        {
+          "Time": "7:00",
+          "Weather": "",
+          "Max Temp": "26.2 °C",
+          "Min Temp": "22.4 °C",
+          "Rainfall": "0.1 mm",
+          "Wind Speed": "2.3",
+          "Wind Direction": "59.4"
+        },
+        {
+          "Time": "8:00",
+          "Weather": "",
+          "Max Temp": "26.2 °C",
+          "Min Temp": "23.6 °C",
+          "Rainfall": "0.2 mm",
+          "Wind Speed": "2.9",
+          "Wind Direction": "38.5"
+        },
+        {
+          "Time": "9:00",
+          "Weather": "",
+          "Max Temp": "26.2 °C",
+          "Min Temp": "24.7 °C",
+          "Rainfall": "0.3 mm",
+          "Wind Speed": "3.1",
+          "Wind Direction": "40.0"
+        },
+        {
+          "Time": "10:00",
+          "Weather": "",
+          "Max Temp": "26.2 °C",
+          "Min Temp": "24.9 °C",
+          "Rainfall": "0.4 mm",
+          "Wind Speed": "3.1",
+          "Wind Direction": "33.8"
+        },
+        {
+          "Time": "11:00",
+          "Weather": "",
+          "Max Temp": "26.2 °C",
+          "Min Temp": "24.0 °C",
+          "Rainfall": "0.3 mm",
+          "Wind Speed": "3.2",
+          "Wind Direction": "41.0"
+        },
+        {
+          "Time": "12:00",
+          "Weather": "",
+          "Max Temp": "26.2 °C",
+          "Min Temp": "22.9 °C",
+          "Rainfall": "0.2 mm",
+          "Wind Speed": "3.1",
+          "Wind Direction": "39.0"
+        },
+        {
+          "Time": "13:00",
+          "Weather": "",
+          "Max Temp": "25.2 °C",
+          "Min Temp": "21.7 °C",
+          "Rainfall": "1.2 mm",
+          "Wind Speed": "3.0",
+          "Wind Direction": "53.1"
+        },
+        {
+          "Time": "14:00",
+          "Weather": "",
+          "Max Temp": "25.2 °C",
+          "Min Temp": "21.6 °C",
+          "Rainfall": "0.4 mm",
+          "Wind Speed": "2.7",
+          "Wind Direction": "60.3"
+        },
+        {
+          "Time": "15:00",
+          "Weather": "",
+          "Max Temp": "24.9 °C",
+          "Min Temp": "20.9 °C",
+          "Rainfall": "0.3 mm",
+          "Wind Speed": "2.2",
+          "Wind Direction": "136.4"
+        },
+        {
+          "Time": "16:00",
+          "Weather": "",
+          "Max Temp": "24.0 °C",
+          "Min Temp": "20.5 °C",
+          "Rainfall": "0.6 mm",
+          "Wind Speed": "2.7",
+          "Wind Direction": "56.7"
+        },
+        {
+          "Time": "17:00",
+          "Weather": "",
+          "Max Temp": "22.9 °C",
+          "Min Temp": "20.5 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.8",
+          "Wind Direction": "97.0"
+        },
+        {
+          "Time": "18:00",
+          "Weather": "",
+          "Max Temp": "21.7 °C",
+          "Min Temp": "20.2 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.3",
+          "Wind Direction": "117.9"
+        },
+        {
+          "Time": "19:00",
+          "Weather": "",
+          "Max Temp": "21.6 °C",
+          "Min Temp": "20.0 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.4",
+          "Wind Direction": "62.5"
+        },
+        {
+          "Time": "20:00",
+          "Weather": "",
+          "Max Temp": "20.9 °C",
+          "Min Temp": "19.7 °C",
+          "Rainfall": "0.2 mm",
+          "Wind Speed": "2.4",
+          "Wind Direction": "73.0"
+        },
+        {
+          "Time": "21:00",
+          "Weather": "",
+          "Max Temp": "20.5 °C",
+          "Min Temp": "19.5 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "2.3",
+          "Wind Direction": "99.3"
+        },
+        {
+          "Time": "22:00",
+          "Weather": "",
+          "Max Temp": "20.5 °C",
+          "Min Temp": "19.5 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "2.0",
+          "Wind Direction": "83.9"
+        },
+        {
+          "Time": "23:00",
+          "Weather": "",
+          "Max Temp": "20.2 °C",
+          "Min Temp": "19.2 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "2.6",
+          "Wind Direction": "77.3"
+        }
+      ]
+    },
+    {
+      "date": "Friday 20 February",
+      "rows": [
+        {
+          "Time": "All day",
+          "Weather": "",
+          "Max Temp": "20.0 °C",
+          "Min Temp": "19.2 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "2.8",
+          "Wind Direction": "77.5"
+        },
+        {
+          "Time": "1:00",
+          "Weather": "",
+          "Max Temp": "21.2 °C",
+          "Min Temp": "19.2 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "2.4",
+          "Wind Direction": "74.8"
+        },
+        {
+          "Time": "2:00",
+          "Weather": "",
+          "Max Temp": "22.5 °C",
+          "Min Temp": "19.2 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.8",
+          "Wind Direction": "62.6"
+        },
+        {
+          "Time": "3:00",
+          "Weather": "",
+          "Max Temp": "",
+          "Min Temp": "",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.4",
+          "Wind Direction": "65.1"
+        },
+        {
+          "Time": "4:00",
+          "Weather": "",
+          "Max Temp": "",
+          "Min Temp": "",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.8",
+          "Wind Direction": "71.6"
+        },
+        {
+          "Time": "5:00",
+          "Weather": "",
+          "Max Temp": "",
+          "Min Temp": "",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.2",
+          "Wind Direction": "76.3"
+        },
+        {
+          "Time": "6:00",
+          "Weather": "",
+          "Max Temp": "",
+          "Min Temp": "",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "1.9",
+          "Wind Direction": "56.9"
+        },
+        {
+          "Time": "7:00",
+          "Weather": "",
+          "Max Temp": "",
+          "Min Temp": "",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "2.3",
+          "Wind Direction": "64.2"
+        },
+        {
+          "Time": "8:00",
+          "Weather": "",
+          "Max Temp": "25.4 °C",
+          "Min Temp": "22.1 °C",
+          "Rainfall": "3.7 mm",
+          "Wind Speed": "3.0",
+          "Wind Direction": "42.4"
+        },
+        {
+          "Time": "14:00",
+          "Weather": "",
+          "Max Temp": "24.4 °C",
+          "Min Temp": "20.8 °C",
+          "Rainfall": "0.6 mm",
+          "Wind Speed": "0.6",
+          "Wind Direction": "128.0"
+        },
+        {
+          "Time": "20:00",
+          "Weather": "",
+          "Max Temp": "20.8 °C",
+          "Min Temp": "20.0 °C",
+          "Rainfall": "0.6 mm",
+          "Wind Speed": "1.0",
+          "Wind Direction": "91.9"
+        }
+      ]
+    },
+    {
+      "date": "Saturday 21 February",
+      "rows": [
+        {
+          "Time": "2:00",
+          "Weather": "",
+          "Max Temp": "21.4 °C",
+          "Min Temp": "20.0 °C",
+          "Rainfall": "0.5 mm",
+          "Wind Speed": "1.9",
+          "Wind Direction": "90.7"
+        },
+        {
+          "Time": "8:00",
+          "Weather": "",
+          "Max Temp": "25.5 °C",
+          "Min Temp": "21.4 °C",
+          "Rainfall": "2.0 mm",
+          "Wind Speed": "2.1",
+          "Wind Direction": "90.0"
+        },
+        {
+          "Time": "14:00",
+          "Weather": "",
+          "Max Temp": "25.2 °C",
+          "Min Temp": "21.0 °C",
+          "Rainfall": "1.8 mm",
+          "Wind Speed": "1.9",
+          "Wind Direction": "117.5"
+        },
+        {
+          "Time": "20:00",
+          "Weather": "",
+          "Max Temp": "21.0 °C",
+          "Min Temp": "20.1 °C",
+          "Rainfall": "0.5 mm",
+          "Wind Speed": "0.9",
+          "Wind Direction": "147.0"
+        }
+      ]
+    },
+    {
+      "date": "Sunday 22 February",
+      "rows": [
+        {
+          "Time": "2:00",
+          "Weather": "",
+          "Max Temp": "21.2 °C",
+          "Min Temp": "19.5 °C",
+          "Rainfall": "1.6 mm",
+          "Wind Speed": "1.3",
+          "Wind Direction": "89.4"
+        },
+        {
+          "Time": "8:00",
+          "Weather": "",
+          "Max Temp": "25.0 °C",
+          "Min Temp": "21.2 °C",
+          "Rainfall": "2.7 mm",
+          "Wind Speed": "1.3",
+          "Wind Direction": "153.8"
+        },
+        {
+          "Time": "14:00",
+          "Weather": "",
+          "Max Temp": "24.8 °C",
+          "Min Temp": "19.3 °C",
+          "Rainfall": "7.6 mm",
+          "Wind Speed": "1.0",
+          "Wind Direction": "201.8"
+        },
+        {
+          "Time": "20:00",
+          "Weather": "",
+          "Max Temp": "19.9 °C",
+          "Min Temp": "18.4 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "0.7",
+          "Wind Direction": "40.0"
+        }
+      ]
+    },
+    {
+      "date": "Monday 23 February",
+      "rows": [
+        {
+          "Time": "2:00",
+          "Weather": "",
+          "Max Temp": "21.6 °C",
+          "Min Temp": "18.3 °C",
+          "Rainfall": "0.3 mm",
+          "Wind Speed": "0.9",
+          "Wind Direction": "44.1"
+        },
+        {
+          "Time": "8:00",
+          "Weather": "",
+          "Max Temp": "24.7 °C",
+          "Min Temp": "21.6 °C",
+          "Rainfall": "2.6 mm",
+          "Wind Speed": "",
+          "Wind Direction": "341.2"
+        },
+        {
+          "Time": "14:00",
+          "Weather": "",
+          "Max Temp": "24.1 °C",
+          "Min Temp": "20.4 °C",
+          "Rainfall": "1.4 mm",
+          "Wind Speed": "0.4",
+          "Wind Direction": "239.1"
+        },
+        {
+          "Time": "20:00",
+          "Weather": "",
+          "Max Temp": "20.9 °C",
+          "Min Temp": "19.0 °C",
+          "Rainfall": "0.0 mm",
+          "Wind Speed": "",
+          "Wind Direction": "258.7"
+        }
+      ]
+    }
+  ]
+}

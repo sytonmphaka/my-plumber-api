@@ -1,0 +1,6 @@
+from supabase import create_client, Client
+
+SUPABASE_URL = "https://bqolqgyjlankyxbkxsxb.supabase.co"
+SUPABASE_SERVICE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJxb2xxZ3lqbGFua3l4Ymt4c3hiIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1MDkyNjIyNCwiZXhwIjoyMDY2NTAyMjI0fQ.2oNrmnQxdvKUJ72sRnHJ0wmC1mDtyVjTVkmCNv4D2HU"
+
+supabase: Client = create_client(SUPABASE_URL, SUPABASE_SERVICE_KEY)
